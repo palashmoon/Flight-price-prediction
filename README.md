@@ -19,7 +19,7 @@ Flight ticket prices can be something hard to guess, today we might see a price,
 
 ## Prerequisites
 you need to install the following software libraries in your machine before running this projects.
-    1. Python3<br\>
+    1. Python3<br/>
     2. Anaconda:It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy.
 
 ## Installing:
