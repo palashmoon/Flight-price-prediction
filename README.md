@@ -23,8 +23,8 @@ you need to install the following software libraries in your machine before runn
     2. Anaconda:It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy.
 
 ## Installing:
-    1. Python 3: (https://www.python.org/downloads/)
-    2. Anaconda: (https://www.anaconda.com/download/)
+    1. [Python 3]: (https://www.python.org/downloads/)
+    2. [Anaconda]: (https://www.anaconda.com/download/)
 
 ## Build With
     1. ipython-notebook - Python Text Editor
@@ -35,5 +35,5 @@ you need to install the following software libraries in your machine before runn
     6. RandomForestRegressor - Used for making Machine Learning models.
 
 ## Authors:
-    **Palash Moon**
+    Palash Moon
 
